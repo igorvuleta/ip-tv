@@ -37,8 +37,7 @@ rtmp://video.radio-banovina.hr/live/myStream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
 http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined", Rtl2-hr
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-https://list.iptvcat.com/my_list/s/38b667c54b3671c56c3cf4267b59b380.m3u8
+https://list.iptvcat.com/my_list/s/07888847d115450e6e58dd006f5f4f8d.m3u8
 #EXTINF:-1 tvg-id="TVJadran.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://tvjadran.hr/wp-content/uploads/2021/02/cropped-tv_jadran_site_icon-192x192.png" group-title="",TV Jadran (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x670ug8
 #EXTINF:-1 tvg-id="TVNova.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://tvnova.hr/images/logo-tvnova.png" group-title="",TV Nova (480p) [Not 24/7]
@@ -275,5 +274,7 @@ http://iptv.csserv.co:8000/live/clientr725/631739/874.ts?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",CINEMAX 2 HD
 http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1053?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined", NovaBiH
-https://list.iptvcat.com/my_list/s/d47a14244d517f2d0ae7117f3039fe7e.m3u8
+https://list.iptvcat.com/my_list/s/73f05347e83e0d835823e14cd3a706ef.m3u8
+#EXTINF:0 tvg-country="hr" tvg-logo="" group-title="Undefined", NovaHr
+https://list.iptvcat.com/my_list/s/a68900904d89f2dfa1b4d0af2bb98eeb.m3u8
 
