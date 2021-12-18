@@ -38,7 +38,7 @@ rtmp://video.radio-banovina.hr/live/myStream
 http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2" tvg-logo="https://tv.iskon.hr/var/ezdemo_site/storage/images/tv-vodic/rtl-22/271293-2-cro-HR/RTL-2.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="",RTL (720p) group-title="HRVATSKA",RTL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/109347
+http://qqtv.nl:8080/masud/masud/14445
 #EXTINF:-1 tvg-id="TVJadran.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://tvjadran.hr/wp-content/uploads/2021/02/cropped-tv_jadran_site_icon-192x192.png" group-title="",TV Jadran (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x670ug8
 #EXTINF:-1 tvg-id="B1TV.ba" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/fdd1oQP.png" group-title="",B1 TV (1080p) [Not 24/7]
@@ -70,7 +70,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:-1 tvg-id="RTRS.ba" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/mhfGMIw.jpg" group-title="",РТРС (576p) [Geo-blocked]
 https://parh.rtrs.tv/tv/live/playlist.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined", NovaBiH
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/109269
+http://dontuse.fluxz.cc:80/90144908506629/160417160718/109270
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined", NovaHr
+http://qqtv.nl:8080/masud/masud/16939
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",1 TV HD
 http://103.194.169.171:8282/GE_1TV_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.net
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",1+1
