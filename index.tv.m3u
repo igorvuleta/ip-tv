@@ -69,8 +69,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RTVSL
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=YHLiGONh--I
 #EXTINF:-1 tvg-id="RTRS.ba" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/mhfGMIw.jpg" group-title="",РТРС (576p) [Geo-blocked]
 https://parh.rtrs.tv/tv/live/playlist.m3u8
-#EXTINF:-1,Nova BH
-http://93.87.43.219:6080/play/a0a9/index.m3u8
+#EXTINF:0,Nova BH
+http://103.194.169.171:8282/BiH:NOVA_BH_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.net
 #EXTINF:-1,Nova BH backup
 http://195.181.161.111:80/live/P5tfI6GrzP/y3wSDqDu6V/9032.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined", NovaHr
