@@ -70,11 +70,13 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:-1 tvg-id="RTRS.ba" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/mhfGMIw.jpg" group-title="",РТРС (576p) [Geo-blocked]
 https://parh.rtrs.tv/tv/live/playlist.m3u8
 #EXTINF:-1,Nova BH
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/109271
+http://dontuse.fluxz.cc:80/90144908506629/160417160718/109270
 #EXTINF:-1,Nova BH backup
-http://195.181.161.111:80/live/P5tfI6GrzP/y3wSDqDu6V/9032.m3u8
+http://dontuse.fluxz.cc:80/90144908506629/160417160718/109269
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Undefined", NovaHr
-http://qqtv.nl:8080/masud/masud/53233
+http://dontuse.fluxz.cc:80/90144908506629/160417160718/109327
+#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Undefined", NovaHrB
+http://dontuse.fluxz.cc:80/90144908506629/160417160718/109326
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",1 TV HD
 http://103.194.169.171:8282/GE_1TV_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.net
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",1+1
