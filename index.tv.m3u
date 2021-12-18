@@ -36,12 +36,10 @@ rtmp://video.radio-banovina.hr/live/myStream
 #EXTINF:-1 tvg-id="RTLHrvatska.de" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/aJGNyQn.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="",RTL (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
 http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
-#EXTINF:-1 tvg-country="HR" tvg-logo="" group-title="Undefined", Rtl2-HR
-https://list.iptvcat.com/my_list/s/f88967e23753f1f8b269fc2a3b0cb02c.m3u8
+#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2" tvg-logo="https://tv.iskon.hr/var/ezdemo_site/storage/images/tv-vodic/rtl-22/271293-2-cro-HR/RTL-2.png" group-title="HRVATSKA",RTL 2
+rtmp://130.117.45.5:1935/P929594662/_definst_/rtl2.stream
 #EXTINF:-1 tvg-id="TVJadran.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://tvjadran.hr/wp-content/uploads/2021/02/cropped-tv_jadran_site_icon-192x192.png" group-title="",TV Jadran (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x670ug8
-#EXTINF:-1 tvg-id="TVNova.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://tvnova.hr/images/logo-tvnova.png" group-title="",TV Nova (480p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x694rtu
 #EXTINF:-1 tvg-id="B1TV.ba" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/fdd1oQP.png" group-title="",B1 TV (1080p) [Not 24/7]
 http://proxy.bihnet.net:88/live/b1tv.m3u8
 #EXTINF:-1 tvg-id="BHRT.ba" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/F8jTl1o.png" group-title="",BHRT (720p) [Geo-blocked]
