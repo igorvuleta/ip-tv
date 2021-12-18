@@ -70,7 +70,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:-1 tvg-id="RTRS.ba" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/mhfGMIw.jpg" group-title="",РТРС (576p) [Geo-blocked]
 https://parh.rtrs.tv/tv/live/playlist.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined", NovaBiH
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/109271
+http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/26215
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined", NovaHr
 http://qqtv.nl:8080/masud/masud/16939
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",1 TV HD
